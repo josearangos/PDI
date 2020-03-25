@@ -35,8 +35,8 @@ def componentes(a,cmyk_image_resize):
 
     return a,a2, a3,a1_chori,a2_chori,a3_chori # Retornamos las imagenes separadas por componentes en cada uno de los formatos
 
-
 a = cv2.imread('carro.jpg', 1)  # Leemos la imagen a la cual le aplicaremos las dos funciones anteriores
+carro =  a
 
 #Dado que las componentes CMYK no estan por defecto en opecv, se procedera a usar la librería PIL
 image = Image.open('carro.jpg')
@@ -93,6 +93,7 @@ cv2.imshow('PLACA BINARIZADA',mask)
 #sacamos la placa de la imagen original
 b2=cv2.resize(mask,(mask.shape[0],mask.shape[0]),interpolation=cv2.INTER_AREA)
 cv2.normalize(b2, None, 0, 255, cv2.NORM_MINMAX)
+
 a[b2==0]=0
 cv2.imshow('ORIGINAL + PLACA',a)
 
