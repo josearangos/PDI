@@ -13,6 +13,9 @@
   - David Fernández - david.fernandez@udea.edu.co
   
 ## Classes
+<a href="https://colab.research.google.com/github/josearangos/PDI/blob/Colab/Extraer_Digitos_Placa.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
  1. _**Umbral_histograma_proyecciones**_ <a href="https://colab.research.google.com/github/josearangos/PDI/blob/Colab/Umbral_histograma_proyecciones.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>, **Extraer_Digitos_Placa** <a href="https://colab.research.google.com/github/josearangos/PDI/blob/Colab/Extraer_Digitos_Placa.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
  2.
  3.
