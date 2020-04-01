@@ -16,9 +16,9 @@
 
 
 
- 1. _**Umbral_histograma_proyecciones**_ , **Extraer_Digitos_Placa** <a href="https://colab.research.google.com/github/josearangos/PDI/blob/Colab/Colab_Class/Extraer_Digitos_Placa.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
- 2.
- 3.
+ 1. _**Umbral_histograma_proyecciones**_ ,<a href="https://colab.research.google.com/github/josearangos/PDI/blob/Colab/Colab_Class/Umbral_histograma_proyecciones.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> **Extraer_Digitos_Placa** <a href="https://colab.research.google.com/github/josearangos/PDI/blob/Colab/Colab_Class/Extraer_Digitos_Placa.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ 2. [Detector de movimiento](https://github.com/josearangos/PDI/tree/Colab/Python_Class/Clase_2_Detector%20de%20movimiento)
+ 3. **Procesado_Color**
  4.
  5.
  6.
