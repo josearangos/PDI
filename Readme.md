@@ -20,7 +20,7 @@
  2. [Detector de movimiento](https://github.com/josearangos/PDI/tree/Colab/Python_Class/Clase_2_Detector%20de%20movimiento)
  3. **Procesado_Color** <a href="https://colab.research.google.com/github/josearangos/PDI/blob/Colab/Colab_Class/Procesado_Color.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
  4. **Espacios de colores** <a href="https://colab.research.google.com/github/josearangos/PDI/blob/Colab/Colab_Class/Espacios_de_colores.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>, **selectLicensePlate** <a href="https://colab.research.google.com/github/josearangos/PDI/blob/Colab/Colab_Class/selectLicensePlate.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
- 5. **Segmentación binarian**  <a href="https://colab.research.google.com/github/josearangos/PDI/blob/Colab/Colab_Class/binarySegmentation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ 5. **Segmentación binaria**  <a href="https://colab.research.google.com/github/josearangos/PDI/blob/Colab/Colab_Class/binarySegmentation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
  6.
  7.
  8.
