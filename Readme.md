@@ -21,8 +21,8 @@
  3. **Procesado_Color** <a href="https://colab.research.google.com/github/josearangos/PDI/blob/Colab/Colab_Class/Procesado_Color.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
  4. **Espacios de colores** <a href="https://colab.research.google.com/github/josearangos/PDI/blob/Colab/Colab_Class/Espacios_de_colores.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>, **selectLicensePlate** <a href="https://colab.research.google.com/github/josearangos/PDI/blob/Colab/Colab_Class/selectLicensePlate.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
  5. **Segmentación binaria**  <a href="https://colab.research.google.com/github/josearangos/PDI/blob/Colab/Colab_Class/binarySegmentation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
- 6.
- 7.
+ 6. **Morfología**  <a href="https://colab.research.google.com/github/josearangos/PDI/blob/Colab/Colab_Class/Morfolog%C3%ADa.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ 7. **Esqueletizado**
  8.
  9.
  10.
